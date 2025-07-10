@@ -1,4 +1,14 @@
-# smartmailassistant
-SmartMailAssistant © Alexis Rouan, 2025.
-SmartMailAssistant is a Chrome extension powered by AI for email enhancement.
-Initial commit: July 2025.
+# SmartMailAssistant
+
+📧 SmartMailAssistant © Alexis Rouan — 2025
+AI-powered Chrome extension designed to enhance email writing across major email platforms.
+
+- Name reserved since July 2025
+- Domain: [smartmailassistant.app](https://smartmailassistant.app)
+- Project under active development (code in private repositories)
+
+Supported providers: Gmail, Yahoo Mail, Outlook / Live, and others coming soon.
+
+---
+
+💡 This repository serves as a public reference for the **SmartMailAssistant** name and domain.
