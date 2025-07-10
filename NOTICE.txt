@@ -1,0 +1,14 @@
+SmartMailAssistant — Trademark and Domain Reference
+Copyright © Alexis Rouan, 2025
+
+This repository serves as a public record for the use of the name, domain, and branding associated with "SmartMailAssistant".
+
+- Name reserved: July 2025
+- Domain registered: smartmailassistant.app
+- Owner: Alexis Rouan (France)
+- Purpose: Chrome extension powered by artificial intelligence to assist with email composition in Gmail
+- Codebase: Hosted in private repositories, under active development
+
+Any unauthorized use of the name "SmartMailAssistant", its associated domain, or branding elements may constitute a violation of intellectual property rights.
+
+All rights reserved.
