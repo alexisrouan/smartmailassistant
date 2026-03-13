@@ -6,6 +6,7 @@ AI-powered Chrome extension designed to enhance email writing across major email
 - Name reserved since July 2025
 - Proof of prior art: e-Soleau filing (INPI) — 30 Dec 2025
 - Domain: [smartmailassistant.app](https://smartmailassistant.app)
+- Personal website: [alexisrouan.fr](https://www.alexisrouan.fr/)
 - Project under active development across dedicated private repositories
 
 Supported providers: Gmail, Yahoo Mail, Outlook / Live, and others coming soon.
