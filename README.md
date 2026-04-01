@@ -1,7 +1,7 @@
 # SmartMailAssistant
 
-📧 SmartMailAssistant © Alexis Rouan — 2025
-AI-powered Chrome extension designed to enhance email writing across major email platforms.
+📧 SmartMailAssistant © Alexis Rouan — 2025-2026
+AI-powered Chrome extension designed to improve email and message writing directly inside supported composers.
 
 - Name reserved since July 2025
 - Proof of prior art: e-Soleau filing (INPI) — 30 Dec 2025
@@ -9,7 +9,7 @@ AI-powered Chrome extension designed to enhance email writing across major email
 - Personal website: [alexisrouan.fr](https://www.alexisrouan.fr/)
 - Project under active development across dedicated private repositories
 
-Supported providers: Gmail, Yahoo Mail, Outlook / Live, and others coming soon.
+Supported providers: Gmail, Yahoo Mail, Outlook / Live, LinkedIn, and others coming soon.
 
 ---
 
