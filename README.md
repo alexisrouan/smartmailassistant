@@ -9,7 +9,7 @@ AI-powered Chrome extension designed to improve email and message writing direct
 - Personal website: [alexisrouan.fr](https://www.alexisrouan.fr/)
 - Project under active development across dedicated private repositories
 
-Supported providers: Gmail, Yahoo Mail, Outlook / Live, LinkedIn, and others coming soon.
+Currently described supported surfaces: Gmail, Yahoo Mail and Outlook on the web.
 
 ---
 

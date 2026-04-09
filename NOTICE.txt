@@ -6,7 +6,7 @@ This repository serves as a public record for the use of the name, domain, and b
 - Name reserved: July 2025
 - Domain registered: smartmailassistant.app
 - Owner: Alexis Rouan (France)
-- Purpose: Chrome extension powered by artificial intelligence to assist with email and message composition in Gmail, Outlook, Yahoo Mail and LinkedIn
+- Purpose: Chrome extension powered by artificial intelligence to assist with email composition in Gmail, Outlook on the web and Yahoo Mail
 - Codebase: Hosted in private repositories, under active development
 
 Any unauthorized use of the name "SmartMailAssistant", its associated domain, or branding elements may constitute a violation of intellectual property rights.
